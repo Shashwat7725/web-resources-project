@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FreeCodeCamp.org",
+    "description": "Learn to code for free. Number of instructors and industry level experts with years of experience teach for free. Quality content of all technologies at one stop destination.",
+    "link": "https://www.youtube.com/@freecodecamp",
+    "img": ""
+  },
+  {
+    "title": "Programming with Mosh",
+    "description": "I train professional software engineers that companies love to hire. Detailed explanations with cool animations and interative teaching. Short concise videos of complex topics. Easy learning with visual effect understanding",
+    "link": "https://www.youtube.com/@programmingwithmosh",
+    "img": ""
+  },
+  {
+    "title": "The Net Ninja",
+    "description": "Black-belt your web development skills. Over 1000 free programming tutorials about:- Modern JavaScript (beginner to advanced) - Node.js - ReactJS - HTML - CSS and more",
+    "link": "https://www.youtube.com/@NetNinja",
+    "img": ""
+  },
+  {
+    "title": "Traversy Media",
+    "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP",
+    "link": "https://www.youtube.com/@TraversyMedia",
+    "img": ""
+  },
+  {
+    "title": "SuperSimpleDev",
+    "description": "Simon of SuperSimpleDev Youtube Channel breaks down complex coding barriers into simple step-wise and easy-to-understand processes. No beating around the bush, just direct to the point.I really do like his flagship Youtube course, where he built the Youtube interface with just HTML and CSS, so sleek and interesting.Consider trying out one or more of such fun projects.",
+    "link": "https://www.youtube.com/@SuperSimpleDev",
+    "img": ""
+  }
+]
